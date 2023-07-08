@@ -34,8 +34,8 @@ Os usuários devem ser capazes de:
 
 ## Links
 
-- Repositório: 
-- Deploy: 
+- Repositório: https://github.com/mazziera/article-preview-component
+- Deploy: https://mazziera.github.io/article-preview-component/
 
 ## Meu Processo
 
