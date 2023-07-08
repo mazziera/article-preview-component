@@ -1,0 +1,44 @@
+@media(min-width: 768px){
+    
+    .card{
+        display: grid;
+        grid-template-columns: 40% 60%;
+        width: 650px;
+        height: 280px;
+        position: relative;
+        
+    }
+
+     .card .cover-image{
+        height: 100%;
+        width: 100%;
+        border-radius: 10px 0 0 10px;
+    }
+
+
+    .card .share-socials{
+        max-width: 220px;
+        max-height: 30px;
+        position: absolute;
+        bottom: 33%;
+        right: -10%;
+        border-radius: 10px;
+        
+    }
+
+    #close{
+        display: none;
+    }
+
+    #tale{
+        display: flex;
+        width: 0;
+        height: 0;
+        border-left: 20px solid transparent;
+        border-right: 20px solid transparent;
+        border-top: 20px solid hsl(217, 19%, 35%);
+        position: absolute;
+        top: 40px;
+        right: 90px;
+    }
+}
