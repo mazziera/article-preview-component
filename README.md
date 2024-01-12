@@ -17,9 +17,10 @@
 
 ### Nota
 Por se tratar de um desafio de um site em inglês resolvi codar em inglês, para praticar e manter o costume deste idioma.
-<br><br>
+<br>
 
 ### O Desafio
+    -O desafio consiste em construir um Componente de visualização de artigo e fazê-lo parecer o mais próximo possível do design.
 
 Os usuários devem ser capazes de:
 
@@ -53,7 +54,7 @@ Os usuários devem ser capazes de:
 
 - Pude consolidar ainda mais meus conhecimentos em HTML semântico, o poder das grouping tags de facilitarem a estruturação do projeto de forma semântica; <br>
 - Também o CSS responsivo com Media Queries para gerar uma melhor experiência para o usuário, independendo do dispositivo. Flexbox, Grid elementos posicionados de forma rápida e prática. Modelo de Caixas. Tipografia. Displays ; <br>
-- Pude também firmar mais meu conhecimento em manipulação do DOM do Javascript. O método toggle, foi uma novidade que aprendi e me facilitou muito em gerenciar classes CSS e manipular o display de determinados elementos; <br>
+- Pude também firmar mais meu conhecimento em manipulação do DOM do Javascript. O método toggle, foi uma novidade que aprendi e me facilitou muito em gerenciar classes CSS e manipular o display de determinados elementos <br>
 - Na versão desktop, a caixa com as redes sociais, possui uma espécie de seta, apontando para o botão. Tive que pesquisar como faze-lo, o resultado me fez ter gostado de ter aprendido algo novo.
 
 ### Dificuldades
